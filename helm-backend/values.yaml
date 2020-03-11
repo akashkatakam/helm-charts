@@ -89,4 +89,4 @@ resources: {}
 nodeSelector: {}
 tolerations: []
 affinity: {}
-backend_image: akashkatakam/webapp-backend:b7209f567657bda99a6681f03afd44ab1214a2c0
+backend_image: akashkatakam/webapp-backend:ebab76ef2dfc894bcea4ae97e4c0ab23cbc6a919
